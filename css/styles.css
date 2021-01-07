@@ -1,0 +1,104 @@
+div {
+  background-color: #fde8cd;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "Kaushan Script", cursive;
+  font-size: 5.62rem;
+  color: #433520;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #433520;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #915414;
+}
+
+a {
+  color: #915414;
+}
+/* Class Tags */
+
+.top-container {
+  padding: 20px;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-container {
+    background-color:  #433520;
+    padding: 10px;
+}
+
+.middle-container{
+    padding-bottom:20px;
+}
+
+.pro {
+  text-decoration: underline;
+  font-weight: normal;
+  line-height: 2;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 200px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px; 
+  top: 50px;
+}
+
+.profile-img {
+  width: 230px;
+  height: 230px;
+}
+
+.computer-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.profile{
+    margin: 50px auto 50px auto;
+}
+
+.dance-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.paraf{
+    color: #EAF6F6;
+}
+
+.footer-link{
+    color: #EAF6F6;
+    position: relative;
+    margin: 30px;
+}
+   
